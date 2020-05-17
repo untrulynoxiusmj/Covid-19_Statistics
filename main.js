@@ -28,9 +28,8 @@ var active = !(document.querySelector(".options").style.display == "");
                         window.scrollTo(0, 0);
                     }
                     else{
-                        window.scrollTo(0, document.querySelector(pre).offsetHeight + document.querySelector(pre).offsetTop - document.querySelector(".navbar").offsetHeight);
+                        window.scrollTo(0, document.querySelector(pre).offsetHeight + document.querySelector(pre).offsetTop - document.querySelector(".navbar").offsetHeight + document.querySelector(".options").offsetHeight);
                     }
-                    // document.querySelector(".options").style.display = "none";
                 })
         }
     
