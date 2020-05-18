@@ -22,7 +22,9 @@ COVID - 19 statistics are taken from https://api.covid19india.org/data.json
 
 ##### Page on a tablet :
 
-![](screenshots/pad.PNG)k
+![](screenshots/pad.PNG)
+
+
 
 ##### Page on a Mobile Phone :
 
