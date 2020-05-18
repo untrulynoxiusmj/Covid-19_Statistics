@@ -12,37 +12,21 @@ COVID - 19 statistics are taken from https://api.covid19india.org/data.json
 
 ##### Page on a desktop computer :
 
-
-
 https://drive.google.com/file/d/1ViE9XmEAZLjFu3nzqAGxtRIzB_ztTtTl/view?usp=drivesdk
-
-
 
 > On Navigation bar, different options ( Overview, Symptoms, Prevention, Treatment, Data) get highlighted as user reaches that section of page.
 > 
 > Also, clicking on an option will send the user to respective section of page.
 
-
-
 https://drive.google.com/file/d/1VMDbjySvDM7Ne-5Fcoa-kEjtiI-Hvc1X/view?usp=drivesdk
-
-
 
 ##### Page on a tablet :
 
-
-
 https://drive.google.com/file/d/1VI2NcNnQvKJEeLvF-VQiI7lmhMR4Kt4_/view?usp=drivesdk
-
-
 
 ##### Page on a Mobile Phone :
 
-
-
 https://drive.google.com/file/d/1VmdrhK7M2f7U3m_IZpzvD-ceyi0NTPZg/view?usp=drivesdk
-
-
 
 > On mobile phone view, a menu has been provided, which shows the options when it is clicked.
 > 
@@ -50,25 +34,15 @@ https://drive.google.com/file/d/1VmdrhK7M2f7U3m_IZpzvD-ceyi0NTPZg/view?usp=drive
 > 
 > Also, clicking on an option will send the user to respective section of page.
 
-
-
 https://drive.google.com/file/d/1VePDgt1Is17RFwkUlZtU9Eo5BKSbNJSg/view?usp=drivesdk
-
-
 
 > Clicking again on the menu hides the options.
 > 
 > When options are not visible, name of the section which is currenly open on user screen is displayed on the top below the heading.
 
-
-
 https://drive.google.com/file/d/1VPI3rKyM1UYLZkC9410RPl54oQD5zUON/view?usp=drivesdk
 
-
-
 https://drive.google.com/file/d/1V67Mk9Kjh9IpGbesevURttoDpIRk7jyG/view?usp=drivesdk
-
-
 
 ---
 
@@ -98,7 +72,7 @@ navBar  --  top navigation bar of the page ( contains heading and options )
 
 options  --  contains all the options ( overview, symptoms, prevention, preatment, data)
 
-secondary  --  used to display name of current section being displayed on the screen on                         the top of screen below the heading if options are not visible below the                         heading
+secondary  --  used to display name of current section being displayed on the screen on the top of screen below the heading if options are not visible below the heading
 
 box  --  a container used to display data on the page. ( All sections use this class )
 
@@ -114,11 +88,7 @@ pad  --  provides desired padding to the element
 function makeblack() makes all the options in the navigation bar black.
 ```
 
-
-
 https://drive.google.com/file/d/1V1jhxCTpUt6g7fLwH6QAA6_6NdLUQWJw/view?usp=drivesdk
-
-
 
 ---
 
