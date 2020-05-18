@@ -2,7 +2,7 @@
 
 
 
-live link :  [https://untrulynoxiusmj.github.io/live/](https://untrulynoxiusmj.github.io/live/)
+live link :  [https://sharp-allen-4f67d7.netlify.app/](https://sharp-allen-4f67d7.netlify.app/)
 
 
 
