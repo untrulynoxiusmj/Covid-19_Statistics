@@ -171,3 +171,21 @@ stateData = stateAll.statewise contains the location wise data.
 - stateData[i].deaths is the total number of deaths in ith location
 
 ---
+
+##### In style.css
+
+```css
+@media (min-width: 1000px){
+    ......
+}
+```
+
+are some special settings applied  for desktop computers
+
+```css
+@media (max-width: 1000px){
+    .......
+}
+```
+
+are some special settings applied for mobile view
